@@ -4,4 +4,4 @@ A simple app that allows you to search for text in files. You can search in any 
 
 
 
-![](http://visit.parselecom.com/Api/Visit/21/F75E25)
+![](http://visit.parselecom.com/Api/Visit/glad-tidings/SearchInFiles/F75E25)
